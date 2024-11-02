@@ -21,7 +21,7 @@ To run this project on your local machine, follow these steps:
 1. Clone the repository:
    git clone https://github.com/AliMustafa010/Calculator.git
 
-2.Run
+2. Run
   npm install
   npm run dev
   http://localhost:5173
